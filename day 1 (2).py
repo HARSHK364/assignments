@@ -10,4 +10,4 @@ except Exception as e:
     print("An error occurred:", str(e))
 
 finally:
-    print("this is how multiplication takes place")
+    print("this is how division takes place")
