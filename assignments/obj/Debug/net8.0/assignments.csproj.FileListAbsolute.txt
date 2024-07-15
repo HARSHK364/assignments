@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\assignments\assignments\bin\Debug\net8.0\assignments.exe
+C:\Users\harsh\source\repos\assignments\assignments\bin\Debug\net8.0\assignments.deps.json
+C:\Users\harsh\source\repos\assignments\assignments\bin\Debug\net8.0\assignments.runtimeconfig.json
+C:\Users\harsh\source\repos\assignments\assignments\bin\Debug\net8.0\assignments.dll
+C:\Users\harsh\source\repos\assignments\assignments\bin\Debug\net8.0\assignments.pdb
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.AssemblyInfo.cs
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.dll
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\refint\assignments.dll
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.pdb
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\assignments.genruntimeconfig.cache
+C:\Users\harsh\source\repos\assignments\assignments\obj\Debug\net8.0\ref\assignments.dll
